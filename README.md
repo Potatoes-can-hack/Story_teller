@@ -1,8 +1,8 @@
 # Story_teller
 A collection of three short audiobooks 
 
-#Instructions
+# Instructions
 Run run.py in your ide/terminal
 
-#Requirements
+# Requirements
 Python 3 or above
